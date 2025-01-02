@@ -1,1 +1,7 @@
-
+{
+  "name": "levanchung",
+  "website": "https://github.com/levanchungpleiku",
+  "description": "Blockchain and validator",
+  "logo": "https://raw.githubusercontent.com/levanchungpleiku/chainbase-node/refs/heads/main/levanchung.png",
+  "twitter": "https://x.com/le_lechung"
+}
